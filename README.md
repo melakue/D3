@@ -13,6 +13,7 @@ The editor of the paper wants to run a series of feature stories about the healt
 ## Screenshot
 
 ![Image description](https://github.com/melakue/D3/blob/master/D3%20screenshot%201.JPG)
+![Image description](https://github.com/melakue/D3/blob/master/D3%20screenshot%202.JPG)
 
 
 
